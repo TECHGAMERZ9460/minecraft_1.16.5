@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "vehiclemod:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "vehiclemod:ruby",
+    "count": 9
+  }
+}

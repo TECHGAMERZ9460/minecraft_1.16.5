@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT"
+[[mods]]
+modId="vehiclemod"
+version="${1.16.5}"
+displayName="Vehicle Mod "
+logoFile="logo.png"
+credits="A Vehicle mod by Tech"
+authors="tech"
+description='''
+A Vehicle mod by Tech.
+'''
+
+[[dependencies.vehiclemod]]
+modId="forge"
+mandatory=true
+versionRange="[36,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.vehiclemod]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.16.5,1.19)"
+ordering="NONE"
+side="BOTH"

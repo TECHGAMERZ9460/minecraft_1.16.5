@@ -1,0 +1,11 @@
+{
+  "item.vehiclemod.ruby": "Ruby",
+  "block.vehiclemod.ruby_block": "Ruby Block",
+  "block.vehiclemod.ruby_ore": "Ruby Ore",
+  "itemGroup.vehiclemodtab": "ITEM ",
+  "itemGroup.vehicleblock": "BLOCKS ",
+  "itemGroup.vehiclemodegg": "ENTITY SPAWN EGG",
+
+  "entity.vehiclemod.buffzombie": "Monster Golem",
+  "item.vehiclemod.buffzombie_spawn_egg": "Monster Golem Spawn Egg"
+}
